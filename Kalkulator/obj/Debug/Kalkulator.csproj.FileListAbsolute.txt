@@ -1,0 +1,10 @@
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe.config
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\bin\Debug\Kalkulator.exe
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\bin\Debug\Kalkulator.pdb
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Form1.resources
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.Cache
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.exe
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.pdb
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csprojAssemblyReference.cache
+E:\GENJU\Projek\C#\Kalkulator\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
